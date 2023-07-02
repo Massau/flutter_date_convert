@@ -1,0 +1,21 @@
+name: flutter_date_convert
+description: A package for the Dart language used to perform date conversions.
+version: 0.0.1
+repository: https://github.com/Massau/flutter_date_convert
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
+
